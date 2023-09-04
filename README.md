@@ -1,7 +1,7 @@
 # Simple-Blockchain-Implementation
 
 ## Objective
-The goal of this project is to create a single BlockChain using the given class structures with linked lists. An extension of this project will be [Blockchain-Network](https://github.com/pdj555/Blockchain-Network).
+The goal of this project is to create a single BlockChain using the given class structures with linked lists. [Blockchain-Network](https://github.com/pdj555/Blockchain-Network) will be an extension of this project.
 
 ## Description
 Blockchain is a revolutionary technology that has gained widespread attention in recent years. It is a decentralized digital ledger that enables secure and transparent transactions without the need for intermediaries such as banks or governments. The underlying technology is based on a distributed network that is replicated across a network of computers/nodes. This makes blockchain ideal for applications that require transparency, security, and trust in a decentralized environment, such as cryptocurrency, supply chain management, and voting systems. The potential uses of blockchain are vast and have the potential to revolutionize various industries by creating a more secure, efficient, and transparent way of doing business.
